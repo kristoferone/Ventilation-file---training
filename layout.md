@@ -10,7 +10,3 @@ pmppu3ru0d8.html
 d7dmnr64608.md
 4hioajgemco.html
 q3b0qba42ik.html
-80oju74f5kk.html
-kucoelioa7s.html
-viq0v97vkc8.html
-9rja5e6mdi.html
