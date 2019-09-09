@@ -14,3 +14,5 @@ q3b0qba42ik.html
 1c1k5kl8h0g.html
 ecvsdpabap8.html
 09f0akas4vc.html
+figures/Core plan
+cs43a20vep4.html
