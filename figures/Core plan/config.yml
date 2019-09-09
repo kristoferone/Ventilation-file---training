@@ -17,3 +17,5 @@ grid:
     - 1
     - 1
     url: "/users/78218/articles/384769/master/file/figures/Core%20plan/Core%20plan.xlsx"
+    folder_url: "/users/78218/articles/384769/master/folder/figures/Core plan"
+    treatFirstLineAsHeader: true
