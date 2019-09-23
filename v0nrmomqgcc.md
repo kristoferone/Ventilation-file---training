@@ -1,1 +1,1 @@
-| | Mond
+| | Monday 
