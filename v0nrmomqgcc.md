@@ -1,1 +1,1 @@
-| | Monday | Tuesday | Wednesday | Thursday | Friday | Saturd
+| | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday 
