@@ -1,1 +1,1 @@
-| | Monday | Tuesday | Wednesday | Thursday | Frid
+| | Monday | Tuesday | Wednesday | Thursday | Friday 
