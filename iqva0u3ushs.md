@@ -1,4 +1,4 @@
 Cycle:
-- [x] Tuesday
+- [] Tuesday
 - [] Thursday
 - []
