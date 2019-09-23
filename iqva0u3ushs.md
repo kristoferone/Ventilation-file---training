@@ -1,3 +1,3 @@
 Cycle:
 - [ ] Tuesday
-- [ ] Thur
+- [ ] Thursda
