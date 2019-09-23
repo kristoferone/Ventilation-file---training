@@ -4,3 +4,4 @@
 | Stability ball |  | | | | | | |
 | Push-ups |  | | | | | | |
 | Pull-ups | | | | | | | |
+|
