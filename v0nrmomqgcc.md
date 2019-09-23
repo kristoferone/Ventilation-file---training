@@ -4,4 +4,4 @@
 | Stability ball |  | | | | | | |
 | Push-ups |  | | | | | | |
 | Pull-ups | | | | | | | |
-| Cyc
+| Cycle
