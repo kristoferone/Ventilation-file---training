@@ -3,4 +3,4 @@
 | AA core | |  | | | | | |
 | Stability ball |  | | | | | | |
 | Push-ups |  | | | | | | |
-| Pull-ups |
+| Pull-ups | |
