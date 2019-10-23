@@ -5,6 +5,6 @@
 | Push-ups |  | |   | |   | | |
 | Pull-ups | | |   | |  | | |
 | Cycle | |   | |   | |   |   |
-| Medi | |   | |   | |   |   |
+| Meditatio | |   | |   | |   |   |
 | Cycle | |   | |   | |   |   |
 | Cycle | |   | |   | |   |   |
