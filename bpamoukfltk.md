@@ -6,5 +6,5 @@
 | Pull-ups | | |   | |  | | |
 | Cycle | |   | |   | |   |   |
 | Meditation | |   | |   | |   |   |
-| Roll | |   | |   | |   |   |
+| Roll-outs | |   | |   | |   |   |
 | Cycle | |   | |   | |   |   |
