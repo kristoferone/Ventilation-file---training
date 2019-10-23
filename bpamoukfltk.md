@@ -8,3 +8,4 @@
 | Meditation | |   | |   | |   |   |
 | Roll-outs | |   | |   | |   |   |
 | Stretching | |   | |   | |   |   |
+| Cycle | |   | |   | |   |   |
