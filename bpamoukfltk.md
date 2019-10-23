@@ -6,3 +6,4 @@
 | Pull-ups | | |   | |  | | |
 | Cycle | |   | |   | |   |   |
 | Cycle | |   | |   | |   |   |
+| Cycle | |   | |   | |   |   |
