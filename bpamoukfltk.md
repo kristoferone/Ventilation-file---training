@@ -7,4 +7,4 @@
 | Cycle | |   | |   | |   |   |
 | Meditation | |   | |   | |   |   |
 | Roll-outs | |   | |   | |   |   |
-| Stretc | |   | |   | |   |   |
+| Stretching | |   | |   | |   |   |
