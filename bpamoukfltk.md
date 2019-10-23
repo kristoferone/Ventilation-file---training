@@ -5,3 +5,4 @@
 | Push-ups |  | |   | |   | | |
 | Pull-ups | | |   | |  | | |
 | Cycle | |   | |   | |   |   |
+| Cycle | |   | |   | |   |   |
