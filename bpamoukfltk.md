@@ -4,7 +4,7 @@
 | Stability ball |  |   |   |   |   | | |
 | Push-ups |  | |   | |   | | |
 | Pull-ups | | |   | |  | | |
-| Cycle | |   | |   | |   |   |
+| Cycle | * |   | |   | |   |   |
 | Meditation | |   | |   | |   |   |
 | Roll-outs | |   | |   | |   |   |
 | Stretching | |   | |   | |   |   |
