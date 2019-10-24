@@ -7,5 +7,5 @@
 | Cycle | * |   | |  * | |  * |  * |
 | Meditation | * | *  | * |   | * |   |  * |
 | Roll-outs | |  * | |   | * |   |   |
-| Stretching | * | *  | |   | |   |   |
+| Stretching | * | *  | |  * | |   |   |
 | Dead-lifts | |   | |   | |   |   |
