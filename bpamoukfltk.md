@@ -6,6 +6,6 @@
 | Pull-ups | * | * |   | * |  | | |
 | Cycle | * |   | |  * | |  * |  * |
 | Meditation | * | *  | * |   | * |   |  * |
-| Roll-outs | |   | |   | |   |   |
+| Roll-outs | |  * | |   | |   |   |
 | Stretching | |   | |   | |   |   |
 | Dead-lifts | |   | |   | |   |   |
