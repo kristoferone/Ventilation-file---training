@@ -8,4 +8,4 @@
 | Meditation | * | *  | * |   | * |   |  * |
 | Roll-outs | |  * | |   | * |   |   |
 | Stretching | * | *  | |  * | |   |   |
-| Dead-lifts | |   | |   | |   |   |
+| Dead-lifts | | *  | |   | |   |   |
