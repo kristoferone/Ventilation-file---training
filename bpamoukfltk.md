@@ -5,7 +5,7 @@
 | Push-ups |  | |  * | |  * | | |
 | Pull-ups | * | * |   | * |  | | |
 | Cycle | * |   | |  * | |  * |  * |
-| Meditation | * |   | |   | |   |   |
+| Meditation | * | *  | |   | |   |   |
 | Roll-outs | |   | |   | |   |   |
 | Stretching | |   | |   | |   |   |
 | Dead-lifts | |   | |   | |   |   |
