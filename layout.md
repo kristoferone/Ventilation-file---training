@@ -28,3 +28,5 @@ g8la141lu18.html
 7eolc4ghb54.html
 bpamoukfltk.md
 c5fvf9p24a4.html
+figures/weight,fat,muscle
+bdo6e3l2noo.html
