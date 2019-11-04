@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/weight,fat,muscle/weight,fat,muscle(1).png
+  - path: figures/weight,fat,muscle/weight,fat,muscle(2).png
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/78218/articles/384769/master/folder/figures/weight,fat,muscle"
-    url: "/users/78218/articles/384769/master/file/figures/weight,fat,muscle/weight,fat,muscle(1).png"
+    url: "/users/78218/articles/384769/master/file/figures/weight,fat,muscle/weight,fat,muscle(2).png"
