@@ -30,3 +30,5 @@ bpamoukfltk.md
 c5fvf9p24a4.html
 figures/weight,fat,muscle
 bdo6e3l2noo.html
+figures/weight,fat,muscle(4)
+nmhkh0i94qg.html
