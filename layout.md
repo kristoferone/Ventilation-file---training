@@ -32,5 +32,4 @@ figures/weight,fat,muscle
 bdo6e3l2noo.html
 figures/weight,fat,muscle(4)
 nmhkh0i94qg.html
-data/IMG_1967/IMG_1967.mov
 m15r293468k.html
