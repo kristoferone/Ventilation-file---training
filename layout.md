@@ -32,3 +32,5 @@ figures/weight,fat,muscle
 bdo6e3l2noo.html
 figures/weight,fat,muscle(4)
 nmhkh0i94qg.html
+figures/fat-muscle
+a81jug7uiq.html
