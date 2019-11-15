@@ -1,4 +1,4 @@
 | November 18 - 24 |  November 25 - December 1 | December 2 - 8 | December 9 - 15 | December 16 - 22 | December 23 - 29 | December 30 - January 5 |
 | ---- | ---- | ----- | ------ | ----- | ----- | ----- | ------ |
-| Duration | 2:00 | 2:00 | 2:00 | 2:00 | 2:00 | 2:00 | 
+| Duration | 2:00 | 2:00 | 2:00 | 2:00 | 2:00 | 2:00 | 2
 | Circuits | 1 | 2 | 3 | 3 | 3 | 3 |
