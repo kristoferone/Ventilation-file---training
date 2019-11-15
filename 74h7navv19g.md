@@ -1,4 +1,4 @@
-| | November 18 - 24 |  November 25 - December 1 | December 2 - 8 | December 9 - 15 | December 16 - 22 | December 23 - 29 | December 30 - 24 |
+| | November 18 - 24 |  November 25 - December 1 | December 2 - 8 | December 9 - 15 | December 16 - 22 | December 23 - 29 | December 30 - January |
 | ---- | ---- | ----- | ------ | ----- | ----- | ----- |
 | Push-ups | 10 | 12 | 14 | 12 | 14 | 16 |
 | Pull-ups | 2 | 3 | 4 | 3 | 4 | 5 |
