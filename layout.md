@@ -34,3 +34,5 @@ figures/weight,fat,muscle(4)
 nmhkh0i94qg.html
 figures/fat-muscle
 a81jug7uiq.html
+figures/Screenshot_2019-11-15 Periodization Training for Sports - Google Play
+us12bqdt7m4.html
