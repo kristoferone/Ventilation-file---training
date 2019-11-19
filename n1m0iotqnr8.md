@@ -1,6 +1,6 @@
 | | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| En core |    | * | * |  * | *  | | |
+| Endurance core |    | * | * |  * | *  | | |
 | Stability ball |  |  * |   |   |  * | | |
 | Push-ups |  | |  * | |  * | | |
 | Pull-ups | * | * |   | * |  | | |
