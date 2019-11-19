@@ -1,6 +1,6 @@
 | | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| Erg | * |   | |  * | |   |  * |
+| Erg | * |   | |   | |   |  * |
 | Cycle | * |   | |  * | |   |  * |
 | Endurance core |    | * | * |  * | *  | | |
 | Stability ball |  |  * |   |   |  * | | |
