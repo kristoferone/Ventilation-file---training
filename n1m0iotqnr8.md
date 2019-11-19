@@ -1,5 +1,6 @@
 | | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| Cycle | * |   | |  * | |  * |  * |
 | Endurance core |    | * | * |  * | *  | | |
 | Stability ball |  |  * |   |   |  * | | |
 | Push-ups |  | |  * | |  * | | |
