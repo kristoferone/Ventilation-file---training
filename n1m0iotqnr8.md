@@ -7,6 +7,6 @@
 | Push-ups |  | |   | * |   | * | |
 | Pull-ups |  |  |   | * |  | * | |
 | Meditation | * | *  | * |  * | * |   |   |
-| Roll-outs | |  | |  * |  |   |   |
+| Roll-outs | |  | |  * |  | *  |   |
 | Stretching | * | *  | |  * | |   |   |
 | Dead-lifts | | *  | |   | *  |   |   |
