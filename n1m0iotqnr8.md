@@ -4,7 +4,7 @@
 | Cycle | * |   | |  * | |   |  * |
 | Endurance core |    | * | * |   | *  | | |
 | Stability ball |  |  * |  * |   |  * | | |
-| Push-ups |  | |   | * |  * | | |
+| Push-ups |  | |   | * |   | | |
 | Pull-ups | * | * |   | * |  | | |
 | Cycle | * |   | |  * | |  * |  * |
 | Meditation | * | *  | * |   | * |   |  * |
