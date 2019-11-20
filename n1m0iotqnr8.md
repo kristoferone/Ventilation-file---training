@@ -8,5 +8,5 @@
 | Pull-ups |  |  |   | * |  | * | |
 | Meditation | * | *  | * |  * | * |   |   |
 | Roll-outs | |  | |  * |  | *  |   |
-| Stretching | * | *  | |  * | |   |   |
+| Stretching | * | *  | *|  * | |   |   |
 | Dead-lifts | | *  | |   | *  |   |   |
