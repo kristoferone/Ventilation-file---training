@@ -3,7 +3,7 @@
 | Erg | * |   | |   | |   |   |
 | Cycle | * |   | |  * | |   |  * |
 | Endurance core |    | * | * |   | *  | | |
-| Stability ball |  |  * |   |   |  * | | |
+| Stability ball |  |  * |  * |   |  * | | |
 | Push-ups |  | |  * | |  * | | |
 | Pull-ups | * | * |   | * |  | | |
 | Cycle | * |   | |  * | |  * |  * |
