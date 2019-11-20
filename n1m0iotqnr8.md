@@ -6,7 +6,7 @@
 | Stability ball |  |  * |  * |   |  * | | |
 | Push-ups |  | |   | * |   | * | |
 | Pull-ups |  |  |   | * |  | * | |
-| Meditation | * | *  | * |   | * |   |  * |
+| Meditation | * | *  | * |  * | * |   |  * |
 | Roll-outs | |  * | |   | * |   |   |
 | Stretching | * | *  | |  * | |   |   |
 | Dead-lifts | | *  | |   | *  |   |   |
