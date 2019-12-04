@@ -46,4 +46,3 @@ e6g1gqktob8.md
 lreinl6jc84.html
 figures/fat-muscle2
 ik20k6023no.html
-a62je80kuks.html
