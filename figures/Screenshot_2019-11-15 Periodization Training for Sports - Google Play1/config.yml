@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Screenshot_2019-11-15 Periodization Training for Sports - Google
+      Play1/Screenshot_2019-11-15 Periodization Training for Sports - Google Play1.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/78218/articles/384769/master/file/figures/Screenshot_2019-11-15%20Periodization%20Training%20for%20Sports%20-%20Google%20Play1/Screenshot_2019-11-15%20Periodization%20Training%20for%20Sports%20-%20Google%20Play1.png"
