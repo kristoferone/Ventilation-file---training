@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/fat-muscle4/fat-muscle4.html
+    type: html
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/78218/articles/384769/master/file/figures/fat-muscle4/fat-muscle4.html"
