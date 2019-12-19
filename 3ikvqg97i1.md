@@ -1,1 +1,1 @@
-| Monday | Tuesday | Wednesday | Thursday 
+| Monday | Tuesday | Wednesday | Thursday | 
