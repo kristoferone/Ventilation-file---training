@@ -3,3 +3,4 @@
 | Core | Core | Core |  |  |  |  |
 |  |  | Strength | Strength | Strength |  |  |
 |  |  |  |  | Bike | Bike | Bike |
+|  |  |  |  | Bike | Bike | Bike |
