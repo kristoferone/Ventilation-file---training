@@ -2,4 +2,4 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
 | Core | Core | Core |  |  |  |  |
 |  |  | Strength | Strength | Strength |  |  |
-|  |  |  |  | Bike | Saturday | Sunday |
+|  |  |  |  | Bike | Bike | Sunday |
