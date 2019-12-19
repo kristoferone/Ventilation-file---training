@@ -2,4 +2,4 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
 | Core | Core | Core |  |  |  |  |
 |  |  | Strength | Strength | Strength |  |  |
-|  | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+|  |  | Wednesday | Thursday | Friday | Saturday | Sunday |
