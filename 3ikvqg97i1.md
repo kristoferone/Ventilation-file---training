@@ -1,1 +1,1 @@
-| Monday | Tuesday | Wednesday | Thursday | Friday | Satur
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday 
