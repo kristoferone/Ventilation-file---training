@@ -3,6 +3,6 @@
 |  |  |  |  |  |  |  |
 | Core | Core | Core | Core |  |  |  |
 |  |  |   Bike | Bike | Bike | Bike | |
-|  |  |  |  |  |  |  |
+| S |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | Erg |  |  |  |  |  |  |
