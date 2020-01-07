@@ -58,3 +58,5 @@ figures/Screenshot_2019-11-15 Periodization Training for Sports - Google Play2
 7ptvt8qv1tg.html
 f1an9aps2e8.md
 6hrd51htek.html
+figures/weight_chart_2019-10-10_to_2020-01-07
+71thd4qtitk.html
