@@ -63,3 +63,5 @@ figures/weight_chart_2019-10-10_to_2020-01-07
 figures/priorities
 lrcfihm0unk.html
 db8m3ufbtgg.html
+figures/Goals
+gpghab1aft8.html
