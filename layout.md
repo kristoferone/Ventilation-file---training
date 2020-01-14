@@ -68,6 +68,5 @@ gpghab1aft8.html
 richMedia/gm1hoi5f6d/block.yml
 e0th009dhuo.html
 as9i2fcvla.html
-richMedia/s350fsft0o4/block.yml
 ce50ij1i5bk.html
 l07i3l1lpjs.html
