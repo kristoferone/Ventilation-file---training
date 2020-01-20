@@ -67,3 +67,5 @@ figures/Goals
 gpghab1aft8.html
 richMedia/gm1hoi5f6d/block.yml
 e0th009dhuo.html
+richMedia/snsj9qg1aro/block.yml
+hmgb08ndtjg.html
