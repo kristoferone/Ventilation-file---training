@@ -69,3 +69,5 @@ richMedia/gm1hoi5f6d/block.yml
 e0th009dhuo.html
 richMedia/snsj9qg1aro/block.yml
 hmgb08ndtjg.html
+figures/fat-muscle5
+fi39ischng.html
