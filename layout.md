@@ -71,3 +71,5 @@ richMedia/snsj9qg1aro/block.yml
 hmgb08ndtjg.html
 figures/fat-muscle5
 fi39ischng.html
+figures/Screenshot_2020-01-30 Spokd Plan Insight
+ekfggnj8j1s.html
