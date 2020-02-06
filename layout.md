@@ -73,3 +73,5 @@ figures/fat-muscle5
 fi39ischng.html
 figures/Screenshot_2020-01-30 Spokd Plan Insight
 ekfggnj8j1s.html
+figures/Screenshot_2020-02-06 Spokd Plan Insight
+thaon7bk9l8.html
