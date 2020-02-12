@@ -77,3 +77,5 @@ figures/Screenshot_2020-02-06 Spokd Plan Insight
 thaon7bk9l8.html
 figures/Screenshot_2020-02-07 Spokd Plan Insight
 g1hdecrhi18.html
+figures/Screenshot_2020-02-12 Spokd Plan Insight
+h3nhrmto1us.html
