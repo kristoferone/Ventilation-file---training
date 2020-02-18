@@ -82,3 +82,5 @@ h3nhrmto1us.html
 88spbercask.html
 figures/Screenshot_2020-02-18 Spokd Plan Insight
 0bq9qintfg4.html
+figures/Screenshot_2020-02-12 Spokd Plan Insight1
+2duds3mdt5s.html
