@@ -86,3 +86,5 @@ figures/Screenshot_2020-02-12 Spokd Plan Insight1
 2duds3mdt5s.html
 figures/PowerBenchmarks
 id1518fihig.html
+figures/1642-logo-100
+b5sbgih6s3g.html
