@@ -88,5 +88,4 @@ figures/PowerBenchmarks
 id1518fihig.html
 figures/1642-logo-100
 b5sbgih6s3g.html
-figures/temp-plot
 re4u2sbl7i8.html
