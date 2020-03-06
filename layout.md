@@ -89,5 +89,4 @@ id1518fihig.html
 figures/1642-logo-100
 b5sbgih6s3g.html
 re4u2sbl7i8.html
-figures/vega-test
 94v9d39btm.html
