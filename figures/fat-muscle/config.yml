@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: 500px
+web-width: 1920px
 align: center
 float: h!
 grid:
@@ -17,3 +17,4 @@ grid:
     - 1
     - 1
     url: "/users/78218/articles/384769/master/file/figures/fat-muscle/fat-muscle.html"
+    folder_url: "/users/78218/articles/384769/master/folder/figures/fat-muscle"
